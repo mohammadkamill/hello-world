@@ -1,3 +1,3 @@
 # hello-world
-##(By MK)
+## By MK
 demo repository
